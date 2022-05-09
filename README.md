@@ -2,8 +2,8 @@
 
 <span align="center">
 <div class="container">
-    <img src="https://user-images.githubusercontent.com/95927203/167500280-cd439bf7-689d-4a6a-8a1a-14eead292da3.jpg" width="500" height="320" />
-    border-radius: 10px;
+    <img src="https://user-images.githubusercontent.com/95927203/167500280-cd439bf7-689d-4a6a-8a1a-14eead292da3.jpg" width="500" height="320" border-radius="50px" />
+    
 </div>
 </span>
 
