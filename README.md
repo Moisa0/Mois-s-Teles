@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/Lawliet">
 
 ### Opa galera 👋
 Sou graduando em Engenharia da Computação.
