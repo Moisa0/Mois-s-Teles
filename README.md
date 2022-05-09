@@ -1,9 +1,10 @@
+
+
 <span align="center">
-![667210](https://user-images.githubusercontent.com/95927203/167500280-cd439bf7-689d-4a6a-8a1a-14eead292da3.jpg)
-</span>
 <div class="container">
-    <img src="https://user-images.githubusercontent.com/95927203/167500280-cd439bf7-689d-4a6a-8a1a-14eead292da3.jpg" width="320" height="205" />
+    <img src="https://user-images.githubusercontent.com/95927203/167500280-cd439bf7-689d-4a6a-8a1a-14eead292da3.jpg" width="400" height="320" />
 </div>
+</span>
 
 ### Opa galera 👋
 Sou graduando em Engenharia da Computação.
