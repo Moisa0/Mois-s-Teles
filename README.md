@@ -1,6 +1,10 @@
 <span align="center">
+  
 https://github.com/Moisa0/Mois-s-Teles/issues/1#issue-1230263246 
+  
 </span>
+
+
 ### Opa galera 👋
 Sou graduando em Engenharia da Computação.
 - 🔭 Estou no Processo Trainee de DEV da EJ da UFBA, a braba, TITAN
