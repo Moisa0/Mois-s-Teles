@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.legiaodosherois.com.br%2F2021%2Fdeath-note-nome-real-l.html&psig=AOvVaw0N0rfrkOrZP1GnyTFhF6Zg&ust=1652217361660000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPDR-bSr0_cCFQAAAAAdAAAAABAD">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.legiaodosherois.com.br%2F2021%2Fdeath-note-nome-real-l.html&psig=AOvVaw0N0rfrkOrZP1GnyTFhF6Zg&ust=1652217361660000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPDR-bSr0_cCFQAAAAAdAAAAABAD">
 
 ### Opa galera 👋
 Sou graduando em Engenharia da Computação.
