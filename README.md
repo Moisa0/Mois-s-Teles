@@ -1,5 +1,6 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-igwvu&psig=AOvVaw0vclqJxdUbfFgRFl0oK2J4&ust=1652217512515000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNj16Pyr0_cCFQAAAAAdAAAAABAS">
-
+<span align="center">
+https://github.com/Moisa0/Mois-s-Teles/issues/1#issue-1230263246 
+</span>
 ### Opa galera 👋
 Sou graduando em Engenharia da Computação.
 - 🔭 Estou no Processo Trainee de DEV da EJ da UFBA, a braba, TITAN
