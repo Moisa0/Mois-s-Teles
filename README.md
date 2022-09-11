@@ -1,14 +1,4 @@
 
-
-<span align="center">
-<div class="container">
-  
-    
-</div>
-</span>
-
-   
-    
 ### Meu nome é Moisés, mas podem me chamar de |Moisa|
 
 - 👨‍💻 Faço parte da TITAN, Empresa Junior de Engenharia de Computação da UFBA
@@ -18,7 +8,7 @@
 - ♟️No meu tempo livre gosto de jogar xadrez, praticar musculação e jogar LOL
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mois%C3%A9s-teles-39867b227/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mois%C3%A9s-teles-39867b227/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/Moisa_teles/) 
 
  <div>
