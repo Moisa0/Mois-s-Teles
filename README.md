@@ -1,5 +1,5 @@
 
-### Meu nome é Moisés, mas podem me chamar de |Moisa|
+### Prazer, Moisa
 
 - 👨‍💻 Faço parte da TITAN, Empresa Junior de Engenharia de Computação da UFBA
 
