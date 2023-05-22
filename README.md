@@ -1,5 +1,5 @@
 
-### Prazer, Moisa
+### Olá, pode me chamar de Moisa
 
 - 👨‍💻 Faço parte da TITAN, Empresa Junior de Engenharia de Computação da UFBA
 
