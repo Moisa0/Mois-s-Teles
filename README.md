@@ -5,7 +5,7 @@
 
 - 🧑‍💻Graduando em Engenharia de Computação pela UFBA - Universidade Federal da Bahia
 
-- ♟️No meu tempo livre gosto de jogar xadrez, praticar musculação e jogar LOL
+- ♟️No meu tempo livre jogo um xadrezinho, curto academia e jogos online
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mois%C3%A9s-teles-39867b227/)
