@@ -1,5 +1,5 @@
 
-### Olá, pode me chamar de Moisa (Moisés Teles de Jesus)
+### Olá, pode me chamar de Moisa
 
 - 👨‍💻 Faço parte da TITAN, Empresa Junior de Engenharia de Computação da UFBA
 - 👨‍💻 Bolsista em Back-end na Cubos Academy powered by Ifood
